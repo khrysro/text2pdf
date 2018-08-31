@@ -9,6 +9,7 @@
 # Nelson recommends using "make all check install".
 #
 # [16-Oct-1996]
+#modified by khrysro [08-08-2018]
 #========================================================================
 
 # Change this to suit local customs
